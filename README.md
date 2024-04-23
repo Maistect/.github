@@ -1,0 +1,2 @@
+# .github
+Maistect readme
